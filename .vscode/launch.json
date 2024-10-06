@@ -1,0 +1,73 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Kalkulator",
+      "request": "launch",
+      "mainClass": "Praktikum.Sesi3.Kalkulator",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "AritmatikaDemo",
+      "request": "launch",
+      "mainClass": "Praktikum.Sesi3.AritmatikaDemo",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "AritmatikaDemo",
+      "request": "launch",
+      "mainClass": "Praktikum.AritmatikaDemo",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "AritmatikaDemo",
+      "request": "launch",
+      "mainClass": "praktikum.pert3.AritmatikaDemo",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "aritmatika",
+      "request": "launch",
+      "mainClass": "praktikum.pert3.aritmatika",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "Kalkulator",
+      "request": "launch",
+      "mainClass": "praktikum.pert3.Kalkulator",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "Kalkulator",
+      "request": "launch",
+      "mainClass": "Kalkulator",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/root/perkuliahan/PBO",
+      "program": "/root/perkuliahan/PBO/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
