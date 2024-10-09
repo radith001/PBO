@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Programlooping",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi4.Programlooping",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "JumlahMatriks",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi4.JumlahMatriks",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "BilanganPrima",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi4.BilanganPrima",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
       "name": "lampulalulintas",
       "request": "launch",
       "mainClass": "Praktikum.sesi4.lampulalulintas",
