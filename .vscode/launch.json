@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "lampulalulintas",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi4.lampulalulintas",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "hitunggrade",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi4.hitunggrade",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "hadiah",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi4.hadiah",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "kelulusan",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi4.kelulusan",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "KalkulatorGUI",
+      "request": "launch",
+      "mainClass": "Praktikum.Sesi3.KalkulatorGUI",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
       "name": "Kalkulator",
       "request": "launch",
       "mainClass": "Praktikum.Sesi3.Kalkulator",
