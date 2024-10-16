@@ -3,6 +3,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "no5",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi5.no5",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "soal4",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi5.soal4",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "no3",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi5.no3",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "soal1",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi5.soal1",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "tugas",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi2.tugas",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "Quiz",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi2.Quiz",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "Program",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi2.Program",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "RajegWarrior",
+      "request": "launch",
+      "mainClass": "RajegWarrior",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "TiketKereta",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi2.TiketKereta",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "TugasOrderMakanan",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi2.TugasOrderMakanan",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "ProgramUnsur",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi2.ProgramUnsur",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
       "name": "Programlooping",
       "request": "launch",
       "mainClass": "Praktikum.sesi4.Programlooping",

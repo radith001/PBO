@@ -84,9 +84,13 @@ public class RajegWarrior {
                         System.out.flush();
 
                         System.out.println("List senjata yang tersedia:");
-                        System.out.println("1. Panah");
-                        System.out.println("2. Pedang");
-                        System.out.println("3. Catalyst");
+                        
+                        // Menggunakan for loop untuk menampilkan daftar senjata
+                        String[] senjataList = {"Panah", "Pedang", "Catalyst"};
+                        for (int i = 0; i < senjataList.length; i++) {
+                            System.out.println((i + 1) + ". " + senjataList[i]);
+                        }
+
                         System.out.print("Pilihan senjata: ");
                         int senjata = input.nextInt();
 
@@ -106,7 +110,7 @@ public class RajegWarrior {
                 } else {
                     System.out.println("Pilihan tidak valid.");
                 }
-            } while (health > 0 && healthmusuh > 0);
+            } while (health > 0 && healthmusuh > 0);  // Menggunakan do-while loop untuk pertarungan
 
             System.out.print("\033[H\033[2J");
             System.out.flush();

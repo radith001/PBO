@@ -1,1 +1,0 @@
-ai mokai budi pu mama ni ai
