@@ -1,6 +1,6 @@
 package Praktikum.sesi5;
 
-public class soal4 {
+public class no4 {
     public static void main(String[] args) {
         int genap = 0;
         for (int i = 0; i < 100; i++) {
