@@ -3,6 +3,90 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi8.Main",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "SiswaTester",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi7.SiswaTester",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "Nilai",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi7.Nilai",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "MobilCek",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi7.MobilCek",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "MahasiswaTester",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi7.MahasiswaTester",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "MhsTester",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi7.MhsTester",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi6.Main",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "Mahasiswa",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi6.Mahasiswa",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "ClassBintangFIlm",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi6.ClassBintangFIlm",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "ClassBintangFilm",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi6.ClassBintangFilm",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "ClassMobil",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi6.ClassMobil",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "mobil$ClassMobil",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi6.mobil$ClassMobil",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
       "name": "no5",
       "request": "launch",
       "mainClass": "Praktikum.sesi5.no5",
