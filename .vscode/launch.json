@@ -5,6 +5,20 @@
       "type": "java",
       "name": "Main",
       "request": "launch",
+      "mainClass": "Praktikum.sesi8.BangunDatar.Main",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi8.Hewan.Main",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
       "mainClass": "Praktikum.sesi8.Main",
       "projectName": "PBO_20381d28"
     },
