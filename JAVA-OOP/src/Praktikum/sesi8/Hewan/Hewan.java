@@ -31,7 +31,7 @@ class Sapi extends Mamalia {
     public Sapi(){
         suara="Moo";
         berkembangbiak="beranak";
-        this.nama = "aceng";
+        this.nama = "sapi";
         this.umur = "10 tahun";
     }
 
@@ -51,7 +51,7 @@ class Kambing extends Mamalia{
     public Kambing(){
         suara="Mbee";
         berkembangbiak="beranak";
-        this.nama = "aceng 2";
+        this.nama = "kambing";
         this.umur = "5 tahun";
     }
 
@@ -81,7 +81,7 @@ class Burung extends Unggas{
     private String ciri;
 
     public Burung(){
-        suara="Mbeekur...";
+        suara="wakwakkurrr...";
         berkembangbiak="bertelur";
         this.jenis = "Merpati";
         this.ciri = "Bulu Putih";
