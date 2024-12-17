@@ -1,0 +1,40 @@
+@startuml TokoBuku
+
+interface Buku {
+    + baca(): void
+    + deskripsi(): void
+}
+
+abstract class Item {
+    - judul: String
+    - harga: double
+    + Item(judul: String, harga: double)
+    + tampilkanInfo(): void
+}
+
+class Novel {
+    - penulis: String
+    + Novel(judul: String, harga: double, penulis: String)
+    + baca(): void
+    + deskripsi(): void
+    + tampilkanInfo(): void
+}
+
+class Komik {
+    - ilustrator: String
+    + Komik(judul: String, harga: double, ilustrator: String)
+    + baca(): void
+    + deskripsi(): void
+    + tampilkanInfo(): void
+}
+
+class TokoBuku {
+    + main(args: String[]): void
+}
+
+Novel --|> Item
+Komik --|> Item
+Novel ..|> Buku
+Komik ..|> Buku
+
+@enduml

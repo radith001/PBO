@@ -1,4 +1,4 @@
-package Praktikum.sesi7.Waktu;
+package Praktikum.sesi7;
 
 public class Waktu {
 

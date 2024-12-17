@@ -3,6 +3,111 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TokoBuku",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi11.SoalSendiri.TokoBuku",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "TokoBuku",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi11.TokoBuku",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "a",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi11.a",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "kasir",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi4.kasir",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "Reptil",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi11.Reptil",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "Bidang2DTester",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi10.Interface.Bidang2DTester",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "StaffTester",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi10.Abstrak.StaffTester",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "CetakGambar",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi10.polymerfismedinamis.CetakGambar",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "Overloading",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi10.polymorfisme.Overloading",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "OperasiBilanganAbsCetak",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi10.bilangan.OperasiBilanganAbsCetak",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "Abscetak",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi10.bilangan.Abscetak",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "OperasiBilanganAbsCetak",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi10.OperasiBilanganAbsCetak",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "VehicleTester",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi9.vehicle.VehicleTester",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "AnimalTester",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi9.animal.AnimalTester",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi9.pegawai.Main",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
       "name": "Main",
       "request": "launch",
       "mainClass": "Praktikum.sesi8.BangunDatar.Main",
