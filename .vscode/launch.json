@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "soal4",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi12.soal4",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "sesi3",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi12.sesi3",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "soal2",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi12.soal2",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi12.Main",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
       "name": "TokoBuku",
       "request": "launch",
       "mainClass": "Praktikum.sesi11.SoalSendiri.TokoBuku",
