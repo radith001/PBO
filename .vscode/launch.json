@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "soal3",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi12.soal3",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "soal1",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi12.soal1",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
+      "name": "soal",
+      "request": "launch",
+      "mainClass": "Praktikum.sesi12.soal",
+      "projectName": "PBO_20381d28"
+    },
+    {
+      "type": "java",
       "name": "soal4",
       "request": "launch",
       "mainClass": "Praktikum.sesi12.soal4",
